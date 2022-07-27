@@ -11,7 +11,7 @@ AI 드론을 이용한 산불감지 및 조난자 위치 수색 (DOLO) / 욜로�
 개발
 - [공모전 출품 영상 Link](https://youtu.be/zXewTOtryQA)
 <div align="center">
-<img width="752" alt="image" src="https://user-images.githubusercontent.com/87888411/181166635-9ec66d96-c3f0-486a-bda0-393a90f03410.png">
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/87888411/181166635-9ec66d96-c3f0-486a-bda0-393a90f03410.png">
 </div>
 
 ## 작품 소개
@@ -30,7 +30,7 @@ AI 드론을 이용한 산불감지 및 조난자 위치 수색 (DOLO) / 욜로�
    추적하여 영상을 제공한다. 
 
 <div align="center">
-<img width="850" alt="image" src="https://user-images.githubusercontent.com/87888411/181161720-4e1b415e-01ec-42b0-af72-7bf08d7027b4.png">
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/87888411/181161720-4e1b415e-01ec-42b0-af72-7bf08d7027b4.png">
 </div>
 
 ## 작품의 개발배경 및 필요성
@@ -69,7 +69,7 @@ AI 드론을 이용한 산불감지 및 조난자 위치 수색 (DOLO) / 욜로�
 
 ### 1. 작품 구성도
 <div align="center">
-<img width="782" alt="image" src="https://user-images.githubusercontent.com/87888411/181162079-a7e25f88-4e08-48ef-9351-3f9993d3a8d7.png">
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/87888411/181162079-a7e25f88-4e08-48ef-9351-3f9993d3a8d7.png">
 </div>
 
 1. **Drone의 자율비행** – Rasberry Pi와 Pixhawk를 연결하여 각종 센서를 제어하며, ROS를 통해 지정된 구역을 자율비행한다. 
@@ -81,19 +81,19 @@ AI 드론을 이용한 산불감지 및 조난자 위치 수색 (DOLO) / 욜로�
 영상을 클라우드 시스템에 전송한다.
 
 <div align="center">
-<img width="378" alt="image" src="https://user-images.githubusercontent.com/87888411/181161966-4c297a1f-9e99-4649-b900-efb8180d68b9.png">
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/87888411/181161966-4c297a1f-9e99-4649-b900-efb8180d68b9.png">
 </div>
 
 ### 2. 작품 기능
 
 #### SW 주요 기능
 <div align="center">
-<img width="458" alt="image" src="https://user-images.githubusercontent.com/87888411/181162828-eea63340-219a-46bd-9e38-c191facea67c.png">
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/87888411/181162828-eea63340-219a-46bd-9e38-c191facea67c.png">
 </div>
 
 #### HW 주요 기능
 <div align="center">
-<img width="458" alt="image" src="https://user-images.githubusercontent.com/87888411/181162951-96f49e02-a9c2-44fa-912b-cc0a86630654.png">
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/87888411/181162951-96f49e02-a9c2-44fa-912b-cc0a86630654.png">
 </div>
 
 ### 3. 주요 적용 기술
@@ -126,22 +126,22 @@ AI 드론을 이용한 산불감지 및 조난자 위치 수색 (DOLO) / 욜로�
 
 ### 1. [Python/C++] Darknet: YOLO Mark
 <div align="center">
-<img width="777" alt="image" src="https://user-images.githubusercontent.com/87888411/181165408-d0d26d96-7e73-4248-894e-0781c33eeb7d.png">
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/87888411/181165408-d0d26d96-7e73-4248-894e-0781c33eeb7d.png">
 
 <산불과 사람의 이미지를 인식하도록 라벨링>
 </div>
 
 
 <div align="center">
-<img width="417" alt="image" src="https://user-images.githubusercontent.com/87888411/181165685-9e406311-943b-4b96-82e2-3bd5e2a87607.png">
-<img width="401" alt="image" src="https://user-images.githubusercontent.com/87888411/181165722-bd1b40f9-6cfc-4e1e-ab2c-ddf431ca96dc.png">
+<img width="240" alt="image" src="https://user-images.githubusercontent.com/87888411/181165685-9e406311-943b-4b96-82e2-3bd5e2a87607.png">
+<img width="210" alt="image" src="https://user-images.githubusercontent.com/87888411/181165722-bd1b40f9-6cfc-4e1e-ab2c-ddf431ca96dc.png">
 
 <라벨링된 이미지를 Darknet을 활용하여 이미지를 학습>
 </div>
 
 ## 작품 개발 환경
 <div align="center">
-<img width="751" alt="image" src="https://user-images.githubusercontent.com/87888411/181163789-0892f51c-1a7b-4336-8107-28e471594776.png">
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/87888411/181163789-0892f51c-1a7b-4336-8107-28e471594776.png">
 </div>
 
 ##  작품의 기대효과 및 활용분야 
@@ -214,5 +214,5 @@ AI Drone 분야는 팀원 모두에게 생소한 분야였기 때문에, 프로�
 
 ## 수상 실적
 <div align="center">
-<img width="396" alt="image" src="https://user-images.githubusercontent.com/87888411/181165021-b2318658-c017-4443-884c-e606746accad.png">
+<img width="450" alt="image" src="https://user-images.githubusercontent.com/87888411/181165021-b2318658-c017-4443-884c-e606746accad.png">
 </div>
