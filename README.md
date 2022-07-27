@@ -9,6 +9,10 @@ AI 드론을 이용한 산불감지 및 조난자 위치 수색 (DOLO) / 욜로�
 - 멘토 : 김종환 멘토님 (롯데쇼핑)
 - 작품 설명 : 자율 비행 기능을 통해 여러 산간 지역을 이동하며 영상 촬영 및 인식 기술을 통해 잠재적인 산불을 파악하고, 위험에 처한 조난자를 수색하여 알리는 AI Drone
 개발
+- [공모전 출품 영상 Link](https://youtu.be/zXewTOtryQA)
+<div align="center">
+<img width="752" alt="image" src="https://user-images.githubusercontent.com/87888411/181166635-9ec66d96-c3f0-486a-bda0-393a90f03410.png">
+</div>
 
 ## 작품 소개
 ### 1. 기획 의도
@@ -117,6 +121,23 @@ AI 드론을 이용한 산불감지 및 조난자 위치 수색 (DOLO) / 욜로�
 
 5) **email 보내기** : 
 - Python의 smtp 라이브러리를 이용하여 E-Mail을 관리자에게 보냄. 
+
+## 작품 사진
+
+### 1. [Python/C++] Darknet: YOLO Mark
+<div align="center">
+<img width="777" alt="image" src="https://user-images.githubusercontent.com/87888411/181165408-d0d26d96-7e73-4248-894e-0781c33eeb7d.png">
+
+<산불과 사람의 이미지를 인식하도록 라벨링>
+</div>
+
+
+<div align="center">
+<img width="417" alt="image" src="https://user-images.githubusercontent.com/87888411/181165685-9e406311-943b-4b96-82e2-3bd5e2a87607.png">
+<img width="401" alt="image" src="https://user-images.githubusercontent.com/87888411/181165722-bd1b40f9-6cfc-4e1e-ab2c-ddf431ca96dc.png">
+
+<라벨링된 이미지를 Darknet을 활용하여 이미지를 학습>
+</div>
 
 ## 작품 개발 환경
 <div align="center">
